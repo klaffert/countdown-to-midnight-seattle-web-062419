@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown(integer)
-  integer = 0 
+  integer = 10 
   while integer < 10 
   puts "#{integer} SECOND(S)!"
   break if integer == 0 
